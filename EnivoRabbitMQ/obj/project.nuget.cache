@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "98HEnJYaPlikwMA9m4QGEzMSQmSGzd461p//jDsGfKypeoX2dzNKcxWQfuZ+x/m+z4zyXbqzdxfkWC3S8PjukA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\EnivoRabbitMQ\\EnivoRabbitMQ\\EnivoRabbitMQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0-preview.6.21352.12\\microsoft.win32.systemevents.6.0.0-preview.6.21352.12.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\serilog.sinks.console\\4.0.1-dev-00876\\serilog.sinks.console.4.0.1-dev-00876.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.drawing.common\\6.0.0-preview.6.21352.12\\system.drawing.common.6.0.0-preview.6.21352.12.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.security.permissions\\6.0.0-preview.6.21352.12\\system.security.permissions.6.0.0-preview.6.21352.12.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.windows.extensions\\6.0.0-preview.6.21352.12\\system.windows.extensions.6.0.0-preview.6.21352.12.nupkg.sha512"
+  ],
+  "logs": []
+}
